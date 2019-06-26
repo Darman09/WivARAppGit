@@ -1,0 +1,40 @@
+.dark-purple {
+	background-color: #651171!important;
+	color: white !important;
+}
+
+a.dark-purple:hover {
+	background-color: #AC2FBE;
+	color: white !important;
+}
+
+.dark-purple-outline {
+	border: 1px solid #651171;
+	background-color: white !important;
+	color: #651171;
+}
+
+.red-outline {
+	border: 1px solid red;
+	color: red;
+}
+
+.dark-purple-text {
+	color: #651171 !important;
+}
+
+.green-text {
+	color: #148B6A;
+}
+
+.dark-green {
+	background-color: #167158!important;
+}
+
+.dark-grey {
+	background-color: #7C7C7C !important;
+}
+
+.light-grey {
+	background-color: #D6D6D6 !important;
+}
